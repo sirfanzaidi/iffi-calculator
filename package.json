@@ -1,0 +1,21 @@
+{
+  "name": "ifficalculator",
+  "version": "1.0.0",
+  "description": "iffi ka calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ifficalcu": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iffi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
